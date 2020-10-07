@@ -15,11 +15,14 @@ body {
 /* HEADER */
 
 header {
+    padding: 0;
+    margin-top: 100px;
     margin-bottom: 150px;
 }
 
 .navbar {
     position: relative;
+    padding: 0;
 }
 
 .navbar img {
@@ -28,21 +31,21 @@ header {
 }
 
 .navbar span {
-    font-size: 24px;
+    font-size: 32px;
     font-weight: bold;
-    color: #1414b1;
-    margin-left: 10px;
+    color: #003a66;
+    margin-left: 15px;
     position: absolute;
-    top: 30%;
+    top: 15%;
 }
 
 .collapse li {
-    padding-left: 20px;
+    padding-left: 30px;
     margin-top: 10px;
 }
 
 .collapse li a {
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
     color: #000;
     border-bottom: 2px solid transparent;
@@ -79,6 +82,7 @@ header {
 .content__sub1 {
     font-size: 18px;
     width: 80%;
+    margin: 20px 0;
 }
 
 .content__more {
@@ -116,8 +120,8 @@ header {
 
 .content__hr {
     border: 1px solid #000;
-    width: 100%;
-    margin: 50px 0;
+    width: 96%;
+    margin: 80px 20px 100px 20px;
 }
 
 
@@ -144,7 +148,7 @@ header {
 
 .footer__right a {
     color: #000;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
     text-decoration: none;
 }
