@@ -89,6 +89,7 @@ header {
     font-weight: bold;
     font-size: 18px;
     margin-top: 100px;
+    margin-bottom: 0;
 }
 
 .content__more a {
@@ -121,7 +122,7 @@ header {
 .content__hr {
     border: 1px solid #000;
     width: 96%;
-    margin: 80px 20px 100px 20px;
+    margin: 100px 20px;
 }
 
 
@@ -133,7 +134,7 @@ header {
 }
 
 .footer__right {
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 .footer__right ul {
